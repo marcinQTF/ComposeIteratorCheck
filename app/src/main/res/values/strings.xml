@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Training Android</string>
+
+    <!--    Login fragment-->
+    <string name="login_card_title">Welcome back!</string>
+    <string name="login_sign_in_btn">Sign In</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_create_account">Create account</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_email_hint">Email Address</string>
+    <string name="login_fragment_label">" "</string>
+
+    <!--    Splash fragment-->
+    <string name="splash_fragment_label">" "</string>
+    <string name="splash_plane_image">plane_image</string>
+    <string name="splash_card_splash_title">Please sign in or sign up to confirm &amp; view your itinerary</string>
+    <string name="splash_sign_up">Sign Up</string>
+    <string name="splash_sign_in">Sign In</string>
+
+    <!--    Sign up fragment-->
+    <string name="register_fragment_label">" "</string>
+    <string name="register_card_title">Tell us about yourself</string>
+    <string name="register_name_hint">Full Name</string>
+    <string name="register_email_hint">Email Address</string>
+    <string name="register_phone_hint">Phone Number</string>
+    <string name="register_password_hint">Password</string>
+    <string name="register_terms_statement">I agree to the Terms of Services and Privacy Policy</string>
+    <string name="register_create_account">Create account</string>
+    <string name="register_have_account">Already have an account?</string>
+    <string name="register_sign_in">Sign in</string>
+
+    <!--    Search fragment-->
+    <string name="search_fragment_label">" "</string>
+    <string name="hello_from_search_fragment">Hello from Search Fragment</string>
+
+    <!--    Register fragment-->
+    <string name="input_error_name">Name cannot be empty</string>
+    <string name="input_error_email">Email format is incorrect</string>
+    <string name="input_error_phone">Phone number is incorrect</string>
+    <string name="input_error_pass_length">Password should be at least 10 characters long</string>
+    <string name="input_error_pass_uppercase">Password should contain at least 1 uppercase letter</string>
+    <string name="input_error_pass_special_char">\"Password should contain at least one of the special characters: . # ! ? \"</string>
+    <string name="input_error_pass_digit">Password should contain at least 1 digit</string>
+    <string name="error_something_went_wrong">Something went wrong...</string>
+
+    <!--    Settings fragment-->
+    <string name="settings_fragment_label">" "</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_flight_updates">Flight updates</string>
+    <string name="settings_executive_program">Executive program</string>
+    <string name="settings_discount_deals">Discount &amp; deals</string>
+    <string name="settings_english_uk">English(UK)</string>
+    <string name="settings_sign_out">Sign out</string>
+</resources>
